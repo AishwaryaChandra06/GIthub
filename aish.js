@@ -1,1 +1,2 @@
-const a='i'
+const a='i';
+console
